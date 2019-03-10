@@ -1,6 +1,9 @@
 {
+  "news_id": "1919828291828",
   "title": "News Title",
   "description": "News Description here...",
   "call_to_action": "Click Me!",
   "open_scene": "special_offers",
+  "image_url": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/big-sale-poster-template-e7deae6828c68a02661b1b6d941bfd0b.jpg?ts=1506393169",
+  "ext_url": "https://www.example.com"
 }
