@@ -1,12 +1,12 @@
 {
   "show": false,
-  "hide_on_action": false,
+  "hide_on_action": true,
   "is_ad": false,
-  "news_id": "1919828291828",
-  "title": "News Title",
-  "description": "News Description here...",
-  "call_to_action": "Click Me!",
-  "open_scene": "special_offers",
-  "image_url": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/big-sale-poster-template-e7deae6828c68a02661b1b6d941bfd0b.jpg?ts=1506393169",
-  "ext_url": "https://www.example.com"
+  "news_id": "2",
+  "title": "Feedback",
+  "description": "Give us your feedback!",
+  "call_to_action": "Feeback",
+  "open_scene": "",
+  "image_url": "https://raw.githubusercontent.com/BuiltWithNaman/wartoys_news_section/master/posters/beta_poster.png",
+  "ext_url": "https://docs.google.com/forms/d/e/1FAIpQLSeNR68OnY5aGNcw-AQF81lwgDKwv3oGu0uVjBLdqzIjEpf7kQ/viewform"
 }
