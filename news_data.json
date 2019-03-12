@@ -1,7 +1,7 @@
 {
   "show": false,
   "hide_on_action": true,
-  "is_ad": true,
+  "is_ad": false,
   "news_id": "2",
   "title": "Feedback",
   "description": "Give us your feedback!",
