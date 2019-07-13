@@ -1,0 +1,14 @@
+{
+  "lz_ready_time": "Ready ({0})",
+  "lz_waiting_for_everyone": "Wating for everyone...",
+  "lz_connecting": "Connecting...",
+  "lz_connected": "Connected",
+  "lz_ready": "Ready",
+  "lz_disconnected": "Disconnected",
+  "lz_loading": "Loading...",
+  "lz_fetching": "Fetching...",
+  "lz_signing_in": "Signing in...",
+  "lz_login_with": "Login with",
+  "lz_play_as_guest": "Play as Guest",
+  "lz_google_play_games": "Google Play Games"
+}
