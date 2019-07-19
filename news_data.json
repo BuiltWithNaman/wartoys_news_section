@@ -2,12 +2,12 @@
   "show": false,
   "hide_on_action": true,
   "is_ad": false,
-  "news_id": "4",
-  "title": "Instagram",
-  "description": "Follow our Instagram",
-  "call_to_action": "FOLLOW NOW",
+  "news_id": "47",
+  "title": "v0.21beta",
+  "description": "Update Available Now",
+  "call_to_action": "UPDATE",
   "open_scene": "",
-  "image_url": "https://raw.githubusercontent.com/BuiltWithNaman/wartoys_news_section/master/posters/igPromotion.png",
-  "ext_url": "https://instagram.com/qukoongames",
+  "image_url": "https://raw.githubusercontent.com/BuiltWithNaman/wartoys_news_section/master/posters/v0.21.release.png",
+  "ext_url": "https://play.google.com/store/apps/details?id=com.qukoon.wartoys",
   "shop_id": 1
 }
