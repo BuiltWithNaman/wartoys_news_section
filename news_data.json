@@ -3,11 +3,11 @@
   "hide_on_action": true,
   "is_ad": false,
   "news_id": "50",
-  "title": "v0.21beta",
-  "description": "Update Available Now",
-  "call_to_action": "UPDATE NOW",
+  "title": "Beta Survey",
+  "description": "We Need Your Help!",
+  "call_to_action": "GIVE FEEDBACK",
   "open_scene": "",
-  "image_url": "https://raw.githubusercontent.com/BuiltWithNaman/wartoys_news_section/master/posters/v0.21.release.png",
-  "ext_url": "https://play.google.com/store/apps/details?id=com.qukoon.wartoys",
+  "image_url": "https://raw.githubusercontent.com/qukoongames/wartoys_news_section/master/posters/beta2_poster.png",
+  "ext_url": "https://forms.gle/QFxxQecKDubAMLSs8",
   "shop_id": "3"
 }
