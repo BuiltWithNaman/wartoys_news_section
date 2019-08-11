@@ -1,0 +1,28 @@
+{
+  "t": "Just a Beginning"
+  "c": [
+    {
+      "t": "Way To Go!",
+      "d": "Get your first elimination.",
+      "o": "1,k",
+      "ism": true,
+      "r": "50,c;15,xp",
+      "ic": "kill"
+    },
+    {
+      "t": "Yummy Treat",
+      "d": "Pick-up your first powerup.",
+      "o": "1,p",
+      "ism": true,
+      "r": "50,c;15,xp",
+      "ic": "power"
+    },
+    {
+      "t": "First Powerup",
+      "o": "1,p",
+      "ism": true,
+      "r": "50,c;15,xp",
+      "ic": "power"
+    }
+  ]
+}
