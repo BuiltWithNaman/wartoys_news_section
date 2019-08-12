@@ -18,11 +18,11 @@
       "ic": "power"
     },
     {
-      "t": "First Powerup",
-      "o": "1,p",
-      "ism": true,
+      "t": "Rising Star",
+      "o": "1,w",
+      "ism": false,
       "r": "50,c;15,xp",
-      "ic": "power"
+      "ic": "win"
     }
   ]
 }
