@@ -3,7 +3,7 @@
   "p": "#45C9FFFF",
   "c": [
     {
-      "t": "Way To Go!",
+      "t": "There You Go!",
       "d": "Get your first elimination.",
       "o": "1,k",
       "ism": true,
@@ -19,7 +19,7 @@
       "ic": "power"
     },
     {
-      "t": "Rising Star",
+      "t": "Made It!",
       "o": "1,w",
       "ism": false,
       "r": "50,c;15,xp",
