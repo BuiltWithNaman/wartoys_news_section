@@ -6,19 +6,22 @@
   "c": [
     {
       "t": "There You Go!",
-      "o": "1,k",
+      "i": "k",
+      "n": "1",
       "ism": true,
       "r": "50,c;15,xp"
     },
     {
       "t": "Yummy Treat",
-      "o": "1,p",
+      "i": "p",
+      "n": "1",
       "ism": true,
       "r": "50,c;15,xp"
     },
     {
       "t": "Made It!",
-      "o": "1,w",
+      "i": "w",
+      "n": "1",
       "ism": false,
       "r": "50,c;15,xp"
     }
