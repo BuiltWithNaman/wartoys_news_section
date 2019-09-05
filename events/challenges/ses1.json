@@ -6,26 +6,21 @@
   "c": [
     {
       "t": "There You Go!",
-      "d": "Get your first elimination.",
       "o": "1,k",
       "ism": true,
-      "r": "50,c;15,xp",
-      "ic": "kill"
+      "r": "50,c;15,xp"
     },
     {
       "t": "Yummy Treat",
-      "d": "Pick-up your first powerup.",
       "o": "1,p",
       "ism": true,
-      "r": "50,c;15,xp",
-      "ic": "power"
+      "r": "50,c;15,xp"
     },
     {
       "t": "Made It!",
       "o": "1,w",
       "ism": false,
-      "r": "50,c;15,xp",
-      "ic": "win"
+      "r": "50,c;15,xp"
     }
   ]
 }
