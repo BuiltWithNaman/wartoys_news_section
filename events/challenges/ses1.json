@@ -8,21 +8,18 @@
       "t": "There You Go!",
       "i": "k",
       "n": "1",
-      "ism": true,
       "r": "50,c;15,xp"
     },
     {
       "t": "Yummy Treat",
       "i": "p",
       "n": "1",
-      "ism": true,
       "r": "50,c;15,xp"
     },
     {
       "t": "Made It!",
       "i": "w",
       "n": "1",
-      "ism": false,
       "r": "50,c;15,xp"
     }
   ]
