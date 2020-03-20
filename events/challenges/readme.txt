@@ -7,4 +7,6 @@ p = powerups = "each powerups picked in game",
 p{o} : o = "id of powerup" = "each {o} powerups picked in game",
 ap = all powerups = "total powerup picks since the challenge is created",
 ap{o} = "total {o} powerup picks since the challenge is created"
-w = wins = "total wins since the challenge is created"
+w = wins = "total wins since the challenge is created",
+em = "on any emoticon used",
+em{o} = "on {o} emoticon used"
