@@ -9,4 +9,5 @@ ap = all powerups = "total powerup picks since the challenge is created",
 ap{o} = "total {o} powerup picks since the challenge is created"
 w = wins = "total wins since the challenge is created",
 em = "on any emoticon used",
-em{o} = "on {o} emoticon used"
+em{o} = "on {o} emoticon used",
+nr = "news reader" = read news to register this challenge
