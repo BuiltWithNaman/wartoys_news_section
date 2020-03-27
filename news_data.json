@@ -2,12 +2,12 @@
   "show": false,
   "hide_on_action": true,
   "is_ad": false,
-  "news_id": "58",
-  "title": "New Replease - WarToys!",
-  "description": "v0.3.1 released",
-  "call_to_action": "INSTALL",
+  "news_id": "59",
+  "title": "Follow us on Instagram",
+  "description": "Qukoon Games is on Instagram!",
+  "call_to_action": "FOLLOW",
   "open_scene": "",
-  "image_url": "https://raw.githubusercontent.com/qukoongames/wartoys_news_section/master/posters/v0.3.1.release.png",
-  "ext_url": "https://play.google.com/store/apps/details?id=com.qukoon.wartoys&ref=ingame_news_board",
-  "shop_id": "iop"
+  "image_url": "https://raw.githubusercontent.com/qukoongames/wartoys_news_section/master/posters/igPromotion.png",
+  "ext_url": "https://www.instagram.com/qukoongames/",
+  "shop_id": "enjoy"
 }
