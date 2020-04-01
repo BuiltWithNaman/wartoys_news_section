@@ -1,0 +1,12 @@
+{
+  "i": [
+    "gsc_bdg_g","gsc_bdg_s","gsc_bdg_b",
+    
+    "gsc_coin_total","gsc_gem_total","gsc_exp_total","gsc_exp_needed"
+  ],
+  "c": [
+    "cbg","cbs","cbb",
+    
+    "jc","jg","jex","jen"
+  ]
+}
