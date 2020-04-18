@@ -1,5 +1,6 @@
 {
   "reward": 15,
   "is_active": true,
-  "title_message": "15 Gems for our supporters!"
+  "title_message": "15 Gems for our supporters!",
+  "expire": 0
 }
