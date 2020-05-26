@@ -2,12 +2,12 @@
   "show": false,
   "hide_on_action": true,
   "is_ad": false,
-  "news_id": "60",
-  "title": "Follow us on Instagram",
-  "description": "Qukoon Games is on Instagram!",
-  "call_to_action": "FOLLOW",
+  "news_id": "61",
+  "title": "Notice",
+  "description": "We need your feedback!",
+  "call_to_action": "Leave Feedback",
   "open_scene": "",
-  "image_url": "https://raw.githubusercontent.com/qukoongames/wartoys_news_section/master/posters/igPromotion.png",
-  "ext_url": "https://www.instagram.com/qukoongames/",
-  "shop_id": "havefun"
+  "image_url": "https://raw.githubusercontent.com/qukoongames/wartoys_news_section/master/posters/v0.3.5.feedback.png",
+  "ext_url": "https://bit.ly/3ejygRr",
+  "shop_id": "enjoy"
 }
