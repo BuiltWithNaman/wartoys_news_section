@@ -1,1 +1,4 @@
-{"i":["gsc_bdg_g","gsc_bdg_s","gsc_bdg_b","gsc_coin_total","gsc_gem_total","gsc_exp_total","gsc_exp_needed","gsc_xlvl_total_i","gsc_sesactive","gsc_sescurid","gsc_sesendin","gsc_seslstid","plyr_display_name_s","plyr_flag_s","plyr_lmu","plyr_solo_color_c","otu_skin","otu_hat","otu_spoiler","otu_fbumper","otu_bbumper"],"c":["cg","cs","cb","jc","jg","je","jn","jl","sa","si","se","sl","pn","pf","pm","pc","os","oh","op","of","ob"]}
+{
+"i":["gsc_bdg_g","gsc_bdg_s","gsc_bdg_b","gsc_coin_total","gsc_gem_total","gsc_exp_total","gsc_exp_needed","gsc_xlvl_total_i","gsc_sesactive","gsc_sescurid","gsc_sesendin","gsc_seslstid","plyr_display_name_s","plyr_flag_s","plyr_lmu","plyr_solo_color_c","otu_skin","otu_hat","otu_spoiler","otu_fbumper","otu_bbumper"],
+"c":["cg","cs","cb","jc","jg","je","jn","jl","sa","si","se","sl","pn","pf","pm","pc","os","oh","op","of","ob"]
+}
