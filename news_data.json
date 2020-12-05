@@ -7,7 +7,7 @@
   "description": "Join the discord!",
   "call_to_action": "Join",
   "open_scene": "",
-  "image_url": "https://raw.githubusercontent.com/qukoongames/wartoys_news_section/master/posters/v0.4.release.png",
-  "ext_url": "",
+  "image_url": "https://raw.githubusercontent.com/qukoongames/wartoys_news_section/master/posters/discord-announcement.png",
+  "ext_url": "https://discord.gg/A9cdr3peMJ",
   "shop_id": "havefun"
 }
